@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\MVC Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\MVC Countries.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\MVC Countries.AssemblyInfo.cs
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\MVC Countries.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\MVC Countries\bin\Debug\net8.0\MVC Countries.exe
+C:\Users\logan\source\repos\MVC Countries\bin\Debug\net8.0\MVC Countries.deps.json
+C:\Users\logan\source\repos\MVC Countries\bin\Debug\net8.0\MVC Countries.runtimeconfig.json
+C:\Users\logan\source\repos\MVC Countries\bin\Debug\net8.0\MVC Countries.dll
+C:\Users\logan\source\repos\MVC Countries\bin\Debug\net8.0\MVC Countries.pdb
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\MVC Countries.dll
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\refint\MVC Countries.dll
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\MVC Countries.pdb
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\MVC Countries.genruntimeconfig.cache
+C:\Users\logan\source\repos\MVC Countries\obj\Debug\net8.0\ref\MVC Countries.dll
